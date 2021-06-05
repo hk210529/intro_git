@@ -1,0 +1,7 @@
+gitの練習をします
+基本的なワークフローを記載します。
+.git add
+.git command
+.git remove
+.git status
+.git diff
